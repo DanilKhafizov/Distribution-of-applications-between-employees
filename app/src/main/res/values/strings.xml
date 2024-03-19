@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Распределение заявок</string>
+    <string name="register_text">Зарегистрироваться</string>
+    <string name="registration_text">Регистрация</string>
+    <string name="authorization_text">Авторизация</string>
+    <string name="login_text">Войти</string>
+    <string name="fio_string">Фамилия Имя Отчество</string>
+    <string name="cancel_text">Отмена</string>
+    <string name="password_text">Пароль</string>
+    <string name="confirm_password_text">Подтверждение пароля</string>
+    <string name="role_text">Роль</string>
+    <string name="fio_text">ФИО</string>
+    <string name="login">Логин</string>
+    <string name="loginTime">Дата входа в аккаунт</string>
+    <string name="no_account_text">Нет учетной записи?</string>
+    <string name="create_task_text">Создание задачи</string>
+    <string name="title_text">Название</string>
+    <string name="desc_task_text">Описание</string>
+    <string name="create_text">Создать</string>
+    <string name="name_task_text">Название задания</string>
+    <string name="profile_text">Профиль</string>
+    <string name="open_my_tasks_text">Открыть мои задачи</string>
+    <string name="my_tasks">Мои задачи</string>
+    <string name="todo">TODO</string>
+    <string name="tasklist_text">Список задач</string>
+    <string name="complete_text">Выполнить</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_main"
+        android:title="@string/profile_text"
+        android:icon="@drawable/ic_profile"
+        android:checked="true"
+        app:titleTextAppearance="@style/NavigationTextStyle" />
+    <item
+        android:id="@+id/bottom_task_list"
+        android:title="@string/tasklist_text"
+        android:icon="@drawable/ic_tasklist"
+        android:checked="false"
+        app:titleTextAppearance="@style/NavigationTextStyle" />
+    <item
+        android:title="@string/create_task_text"
+        android:icon="@drawable/ic_create_task"
+        android:checked="false"
+        android:id="@+id/bottom_create_task"
+        app:titleTextAppearance="@style/NavigationTextStyle" />
+    <item
+        android:title="@string/my_tasks"
+        android:icon="@drawable/ic_my_tasks"
+        android:checked="false"
+        android:id="@+id/bottom_my_tasks"
+        app:titleTextAppearance="@style/NavigationTextStyle" />
+</menu>

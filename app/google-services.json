@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300458038940",
+    "project_id": "distribution-of-requests",
+    "storage_bucket": "distribution-of-requests.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300458038940:android:057bdfe20a07f661f4bf59",
+        "android_client_info": {
+          "package_name": "com.kadullin.distributionofrequests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4r_kVJwgLjV1865ZTUc8PAnJosT6kyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

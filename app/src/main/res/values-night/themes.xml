@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.DistributionOfRequests" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/silver_blue</item>
+        <item name="android:textColorSecondary">@color/dark_gray</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorSecondaryVariant">@color/dark_green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/gray</item>
+    </style>
+    <style name="NavigationTextStyle">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
